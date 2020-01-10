@@ -26,7 +26,7 @@ int main(){
      cout<<"introduzca password " <<endl;
     cin>>password;
 
-    if(user=="armstrong" && password=="eagle" || user=="aldrin" && password=="buzz" || user=="collins" && password=="columbia"){
+    if(user=="armstrong" && password=="eagle" || || user=="collins" && password=="columbia"){
             
             cout<<"Bienvenido " <<user <<endl;
         
